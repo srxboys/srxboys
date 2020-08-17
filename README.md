@@ -2,8 +2,11 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=srxboys&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
+<!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srxboys&layout=compact" /> 
+-->
 </p>
+
 
 ## React-Native
 [![rxdialog](https://github-readme-stats.vercel.app/api/pin/?username=RXReactNative&repo=react-native-rxdialog)](https://github.com/RXReactNative/react-native-rxdialog)
