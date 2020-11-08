@@ -16,8 +16,8 @@
 [![rxpicker](https://github-readme-stats.vercel.app/api/pin/?username=RXReactNative&repo=react-native-rxpicker)](https://github.com/RXReactNative/react-native-rxpicker)
 
 ## Vue & React
+[![vue-animatecss-mixin](https://github-readme-stats.vercel.app/api/pin/?username=cheere&repo=vue-animatecss-mixin)](https://github.com/cheere/vue-animatecss-mixin)
 [![udesk-js-link](https://github-readme-stats.vercel.app/api/pin/?username=cheere&repo=udesk-js-link)](https://github.com/cheere/udesk-js-link)
-[![udesk-link-demo](https://github-readme-stats.vercel.app/api/pin/?username=cheere&repo=udesk-link-demo)](https://github.com/cheere/udesk-link-demo)
 
 <!--
 **srxboys/srxboys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
