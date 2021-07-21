@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srxboys&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
-<!--
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srxboys&layout=compact" /> 
--->
-</p>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=srxboys&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srxboys&layout=compact" />
+</div>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=srxboys)](https://github.com/ryo-ma/github-profile-trophy)
